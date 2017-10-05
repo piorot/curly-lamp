@@ -1,0 +1,1 @@
+https://travis-ci.org/piorot/curly-lamp.svg?branch=master
