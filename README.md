@@ -1,1 +1,1 @@
-https://travis-ci.org/piorot/curly-lamp.svg?branch=master
+[![build status](https://api.travis-ci.org/piorot/curly-lamp.svg)](http://travis-ci.org/piorot/curly-lamp)
