@@ -3,11 +3,10 @@
     .controller('HomeController', [
         '$rootScope',
         '$log',
-        '$state',
         '$timeout',
         '$location',
         'menu',
-        function ($rootScope, $log, $state, $timeout, $location, menu) {
+        function ($rootScope, $log, $timeout, $location, menu) {
     
           var vm = this;
           var aboutMeArr = ['Family', 'Location', 'Lifestyle'];

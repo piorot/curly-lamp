@@ -36,7 +36,7 @@
               </h3>
             </div>
           </md-toolbar>
-          <md-content role="navigation">
+          <md-content role="navigation" ng-controller="HomeController as vm">
             <ul class="side-menu">
               <li ng-repeat="section in vm.menu.sections" class="parent-list-item"
                   ng-class="{'parentActive' : vm.isSectionSelected(section)}">
